@@ -1,5 +1,6 @@
 ﻿using Newtonsoft.Json;
 
+
 namespace TailSpin.SpaceGame.Web.Models
 {
     public class Score : Model
